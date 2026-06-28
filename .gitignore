@@ -1,0 +1,10 @@
+# Arquivos compilados pelo MetaEditor
+*.ex5
+*.ex4
+
+# Logs
+*.log
+
+# Arquivos temporários do Windows
+Thumbs.db
+desktop.ini
